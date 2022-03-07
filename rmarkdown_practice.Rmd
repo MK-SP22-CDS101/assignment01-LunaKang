@@ -26,6 +26,7 @@ urlcolor: blue
 ---
 
 <!-- Write your Markdown below this line -->
+<<<<<<< HEAD
 # Section
 **Section 001**  
 
@@ -57,5 +58,4 @@ The second line of output is printed out instead, but this means that the calcul
 ```{r}
 ggplot2::qplot(data=iris, x=Sepal.Length, y=Sepal.Width)
 
-
-
+```
